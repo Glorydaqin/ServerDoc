@@ -1,4 +1,5 @@
 ```
+vi /usr/local/nginx/vhost/conf/elasticsearch.conf;
 server{
         server_name _;
         listen 9222;
@@ -18,4 +19,12 @@ server{
         }
 
 }
+
+vi /usr/local/nginx/conf/htpasswd;
+elastic:Bjkdl2N2vgQi6   # 账号:elastic 密码:elasticpass
+```
+
+#### nginx 密码加密方式
+``` 
+
 ```
