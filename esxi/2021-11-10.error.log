@@ -1,0 +1,103 @@
+2021-11-09T16:52:27.845Z cpu0:982212)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T16:53:28.155Z cpu2:982358)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T16:54:28.124Z cpu1:982499)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T16:55:58.200Z cpu1:982708)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T16:57:13.627Z cpu1:982876)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T16:58:29.055Z cpu1:983039)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T16:59:29.466Z cpu0:983187)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:00:44.641Z cpu1:983371)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:02:00.072Z cpu3:983695)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:03:00.449Z cpu0:983828)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:04:15.867Z cpu3:984008)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:05:16.251Z cpu0:984152)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:06:16.613Z cpu2:984286)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:07:46.773Z cpu3:984489)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:08:47.146Z cpu3:984628)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:09:59.419Z cpu0:984801)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:11:02.613Z cpu2:984946)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:12:32.886Z cpu1:985148)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:13:33.370Z cpu0:985287)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:14:48.470Z cpu2:985466)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:16:03.911Z cpu1:985643)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:17:19.039Z cpu1:985806)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:18:19.626Z cpu2:985945)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:19:28.111Z cpu0:986109)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:20:41.602Z cpu2:986287)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:21:24.542Z cpu3:547951)WARNING: NVMEIO:2624 command 0x4558c59fc9c0 failed: ctlr 256, queue 1, psaCmd 0x4558c105c9c8, status 0x7, opc 0x1, cid 510, nsid 1
+2021-11-09T17:21:24.542Z cpu1:524705)WARNING: NVMEPSA:203 Complete vmkNvmeCmd: 0x4558c59fc9c0, vmkPsaCmd: 0x4558c105c9c8, cmdId.initiator=0x430388330040, CmdSN: 0x53d30, status: 0x7
+2021-11-09T17:21:24.542Z cpu1:524705)WARNING: NvmeScsi: 172: SCSI opcode 0x2a (0x4558c105c9c8) on path vmhba1:C0:T0:L0 to namespace t10.NVMe____Asgard_AN2_250NVMe2DM.22F80_______________2020202020202020 failed with NVMe error status:
+2021-11-09T17:21:24.542Z cpu1:524705)WARNING: 0x7 translating to SCSI error H:0x0 D:0x2 P:0x0 Valid sense data: 0xb 0x0 0x0 
+2021-11-09T17:21:24.542Z cpu1:524705)WARNING: HPP: HppThrottleLogForDevice:1136: Cmd 0x2a (0x4558c105c9c8, 524301) to dev "t10.NVMe____Asgard_AN2_250NVMe2DM.22F80_______________2020202020202020" on path "vmhba1:C0:T0:L0" Failed:
+2021-11-09T17:21:24.542Z cpu1:524705)WARNING: HPP: HppThrottleLogForDevice:1144: Error status H:0x0 D:0x2 P:0x0 Valid sense data: 0xb 0x0 0x0. hppAction = 1 
+2021-11-09T17:22:04.921Z cpu0:986475)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-09T17:23:05.299Z cpu2:986608)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+0:00:00:00.000 cpu0:1)WARNING: Serial: 875: Serial port com2 failed during initialization: Failure
+0:00:00:00.000 cpu0:1)WARNING: Serial: 365: shellPort initialization failed: Not found
+0:00:00:00.000 cpu0:1)WARNING: Serial: 366: consolePort initialization failed: Not found
+0:00:00:00.000 cpu0:1)WARNING: Serial: 368: debugShellPort initialization failed: Not found
+0:00:00:00.961 cpu0:1)WARNING: Net: 116: Maximum active ports supported on the host: 1920
+2021-11-10T11:37:56.015Z cpu0:524288)WARNING: PCI: 89: 0000:00:12.0: Failed to add BAR[0] (MEM64 f=0x4 0x4000006000-0x4000007000): Limit exceeded
+2021-11-10T11:37:56.015Z cpu0:524288)WARNING: PCI: 89: 0000:00:14.2: Failed to add BAR[0] (MEM64 f=0x4 0x4000000000-0x4000002000): Limit exceeded
+2021-11-10T11:37:56.016Z cpu0:524288)WARNING: PCI: 89: 0000:00:16.0: Failed to add BAR[0] (MEM64 f=0x4 0x4000004000-0x4000005000): Limit exceeded
+2021-11-10T11:37:56.016Z cpu0:524288)WARNING: PCI: 89: 0000:00:16.4: Failed to add BAR[0] (MEM64 f=0x4 0x4000003000-0x4000004000): Limit exceeded
+2021-11-10T11:37:56.021Z cpu0:524288)WARNING: PCI: 261: 0000:00:1f.5: BAR[0] (MEM f=0x0 0xfe010000-0xfe011000) registration failed (Bad address range)
+2021-11-10T11:37:56.022Z cpu0:524288)WARNING: Serial: 365: shellPort initialization failed: Not found
+2021-11-10T11:37:56.022Z cpu0:524288)WARNING: Serial: 366: consolePort initialization failed: Not found
+2021-11-10T11:37:56.022Z cpu0:524288)WARNING: Serial: 368: debugShellPort initialization failed: Not found
+2021-11-10T11:38:04.137Z cpu0:524581)WARNING: VisorFS: 1094: Attempt to remove non sticky dir/file from tar mount
+2021-11-10T11:38:04.348Z cpu2:524517)WARNING: etherswitch: PortCfg_ModInit:1077: Skipped initializing etherswitch portcfg for VSS to use cswitch and portcfg module
+2021-11-10T11:38:04.432Z cpu2:524517)WARNING: DVFilter: 7425: Maxfilters 7680 not a power of two, replaced with 8192
+2021-11-10T11:38:04.715Z cpu0:524624)WARNING: APEI: 306: Could not initialize EINJ
+2021-11-10T11:38:04.897Z cpu1:524657)WARNING: nvme_pcie00070000:NVMEPCIEAdapterInit:566:workaround=0
+2021-11-10T11:38:04.897Z cpu1:524657)WARNING: NVMEDEV:780 NVMe stats feature is not enabled.
+2021-11-10T11:38:04.967Z cpu0:524654)WARNING: igbn: igbn_HICmdDrvInfo:127: HIC driver info - rejected payload v2, retrying with v1 : 0x04
+2021-11-10T11:38:05.029Z cpu0:524654)WARNING: igbn: igbn_HICmdDrvInfo:127: HIC driver info - rejected payload v2, retrying with v1 : 0x04
+2021-11-10T11:38:05.092Z cpu3:524654)WARNING: igbn: igbn_HICmdDrvInfo:127: HIC driver info - rejected payload v2, retrying with v1 : 0x04
+2021-11-10T11:38:05.153Z cpu3:524654)WARNING: igbn: igbn_HICmdDrvInfo:127: HIC driver info - rejected payload v2, retrying with v1 : 0x04
+2021-11-10T11:38:05.194Z cpu0:524708)WARNING: NVMEDEV:7406 invalid Subsystem NQN, fallback to legacy nqn.
+2021-11-10T11:38:05.784Z cpu3:524815)WARNING: Tcpip: 1335: failed to unset gateway (error = 0x31)
+2021-11-10T11:38:05.896Z cpu0:524517)WARNING: FBFT not enabled
+2021-11-10T11:38:05.984Z cpu1:524517)WARNING: Device: 1582: Failed to register device 0x430461801220 logical#swdevroot#com.vmware.iscsi_vmk0 com.vmware.iscsi_vmk (parent=0x30684304618015cb): Already exists
+2021-11-10T11:38:05.991Z cpu1:524517)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:39:48.444Z cpu3:524647)WARNING: NvmeScsi: 172: SCSI opcode 0x1a (0x4558c11ffac8) on path vmhba1:C0:T0:L0 to namespace t10.NVMe____Asgard_AN2_250NVMe2DM.22F80_______________2020202020202020 failed with NVMe error status:
+2021-11-10T11:39:48.444Z cpu3:524647)WARNING: 0x2 translating to SCSI error H:0x0 D:0x2 P:0x0 Valid sense data: 0x5 0x24 0x0 
+2021-11-10T11:39:48.444Z cpu2:524313)WARNING: ScsiDeviceIO: 4052: ModeSense 0x1a request failed - blocking page:0x1c subpage:0x2 t10.NVMe____Asgard_AN2_250NVMe2DM.22F80_______________2020202020202020
+2021-11-10T11:39:50.817Z cpu3:525282)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:39:52.813Z cpu1:526043)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:39:53.327Z cpu0:526248)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:39:54.006Z cpu1:526581)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:39:54.186Z cpu0:526308)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:39:55.175Z cpu1:527101)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:39:55.175Z cpu1:526667)WARNING: VisorFS: 2088: Refusing write to read-only visorfs file /var/lib/sfcb/registration/vmw_smx-provider-providerRegister by process sh.
+2021-11-10T11:39:55.177Z cpu1:527102)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:40:13.769Z cpu0:530695)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:40:16.372Z cpu3:530969)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:40:16.594Z cpu0:530978)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:40:16.840Z cpu2:530984)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:40:17.078Z cpu1:530990)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:40:17.306Z cpu1:530999)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:40:17.556Z cpu0:531007)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T11:40:17.805Z cpu0:531017)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:02:05.304Z cpu2:524860)WARNING: iscsi_vmk: iscsivmk_StartConnection:919: vmhba64:CH:0 T:0 CN:0: iSCSI connection is being marked "ONLINE"
+2021-11-10T12:02:05.304Z cpu2:524860)WARNING: iscsi_vmk: iscsivmk_StartConnection:920: Sess [ISID: 00023d000003 TARGET: iqn.2005-10.org.freenas.ctl:iscsishare TPGT: 1 TSIH: 0]
+2021-11-10T12:02:05.304Z cpu2:524860)WARNING: iscsi_vmk: iscsivmk_StartConnection:921: Conn [CID: 0 L: 192.168.2.114:41584 R: 192.168.2.213:3260]
+2021-11-10T12:02:13.080Z cpu2:524812)WARNING: ScsiDeviceIO: 4052: ModeSense 0x1a request failed - blocking page:0x1c subpage:0x2 naa.6589cfc000000e922e0119a4ec44e51c
+2021-11-10T12:02:13.114Z cpu3:534979)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:02:48.761Z cpu0:535064)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:04:04.015Z cpu0:535275)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:05:04.249Z cpu1:535421)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:06:21.085Z cpu0:535601)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:07:49.536Z cpu0:535805)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:08:49.766Z cpu2:535938)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:10:05.035Z cpu2:536118)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:11:20.494Z cpu0:536293)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:12:35.529Z cpu0:536478)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:13:50.544Z cpu1:536641)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:14:50.909Z cpu3:536782)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:15:51.822Z cpu0:536931)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:17:06.175Z cpu0:537107)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:18:36.494Z cpu0:537340)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:19:51.766Z cpu1:537505)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:20:59.609Z cpu1:537673)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:22:22.025Z cpu1:537863)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
+2021-11-10T12:23:37.293Z cpu3:538042)WARNING: VisorFS: 1094: Attempt to setattr non sticky dir/file from tar mount
